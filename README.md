@@ -62,3 +62,40 @@ df = pd.read_csv('final_animedataset.csv')
 df = pd.read_csv('/kaggle/input/myanimelist-dataset/final_animedataset.csv')
 # Using Colab or Kaggle is recommended for quick setup without installing anything locally.
 ```
+---
+
+## Recommendation Random Output Example
+```bash
+
+Title: Tonari no Kaibutsu-kun 
+Genre: Slice of Life, Comedy, Romance, School, Shoujo
+Type: TV
+Source: Manga
+Similarity Score: 1.0000 
+---
+Title: Sora no Manimani
+Genre: Comedy, Romance, School, Slice of Life
+Type: TV
+Source: Manga
+Similarity Score: 0.7035
+---
+Title: Kareshi Kanojo no Jijou
+Genre: Comedy, Drama, Romance, School, Shoujo, Slice of Life
+Type: TV
+Source: Manga
+Similarity Score: 0.6963
+---
+Title: Ao Haru Ride
+Genre: Comedy, Drama, Romance, School, Shoujo, Slice of Life
+Type: TV
+Source: Manga
+Similarity Score: 0.6963
+---
+Title: Special A
+Genre: Comedy, Romance, School, Shoujo
+Type: TV
+Source: Manga
+Similarity Score: 0.6838
+---
+```
+> Note: If an anime has a similarity score of 1.0000, that means it's the original anime whose index was passed into the recommendation function.
