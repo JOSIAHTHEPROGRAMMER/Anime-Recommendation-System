@@ -31,7 +31,7 @@ cd anime-recommendation-system
 pip install -r requirements.txt
 ```
 
-3. Run the Notebook
+#### 3. Run the Notebook
 Launch Jupyter Notebook or VS Code and open:
 
 ```bash
