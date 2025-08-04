@@ -26,7 +26,7 @@ Make sure to download `final_animedataset.csv` and place it in your project dire
 git clone https://github.com/yourusername/anime-recommendation-system.git
 cd anime-recommendation-system
 ```
-### 2. Install Dependencies
+#### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
