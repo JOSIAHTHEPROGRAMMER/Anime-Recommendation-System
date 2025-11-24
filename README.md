@@ -23,7 +23,7 @@ Make sure to download `final_animedataset.csv` and place it in your project dire
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/anime-recommendation-system.git
+git clone https://github.com/JOSIAHTHEPROGRAMMER/anime-recommendation-system.git
 cd anime-recommendation-system
 ```
 #### 2. Install Dependencies
