@@ -3,3 +3,6 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+flask
+flask-cors
+gunicorn
